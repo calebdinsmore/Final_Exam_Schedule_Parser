@@ -1,0 +1,14 @@
+//Format: <Class Name> <Start Hour> <AM or PM> <Days>
+//Example schedule:
+//ISA 11:00 AM MWF
+//KBS 1:00 PM MWF
+//InfoSec 2:00 PM MWF
+//BibLit2 3:00 PM MWF
+//IntroToSoc 6:20 PM MWF
+
+ChristianEd 9:00 AM MWF
+History 11:00 AM MWF
+BibTheo 12:00 PM MWF
+Diction 2:00 PM MW
+Music 1:00 PM TR
+CulturalAnthro 6:30 PM T
